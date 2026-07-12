@@ -24,6 +24,9 @@
             "url": "https://buymeacoffee.com/ruslanora"
         }
     ],
+    "require": {
+        "php": "^8.1"
+    },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "3.95.13",
         "phpstan/phpstan": "^2.2",
@@ -31,7 +34,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ruslan\\Generics\\": "src/"
+            "Ruslan\\Generics\\": "src/Generics/"
         }
     },
     "autoload-dev": {
