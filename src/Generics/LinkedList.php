@@ -279,6 +279,9 @@ final class LinkedList implements Countable, IteratorAggregate
         $this->count = 0;
     }
 
+    /**
+     * @return Generator<int, T>
+     */
     public function getIterator(): Generator
     {
         for ($node = $this->head; $node !== null; $node = $node->getNext()) {
