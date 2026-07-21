@@ -1,8 +1,8 @@
 # Generics Collections in PHP
 
 [![CI](https://github.com/ruslanora/generics/actions/workflows/ci.yml/badge.svg)](https://github.com/ruslanora/generics/actions/workflows/ci.yml)
-[![Packagist Version](https://img.shields.io/packagist/v/ruslan/generics)](https://packagist.org/packages/ruslan/generics)
-[![PHP Version](https://img.shields.io/packagist/php-v/ruslan/generics)](https://packagist.org/packages/ruslan/generics)
+[![Packagist Version](https://img.shields.io/packagist/v/ruslanora/generics)](https://packagist.org/packages/ruslanora/generics)
+[![PHP Version](https://img.shields.io/packagist/php-v/ruslanora/generics)](https://packagist.org/packages/ruslanora/generics)
 [![License](https://img.shields.io/github/license/ruslanora/generics)](LICENSE)
 
 Strongly typed collections for PHP, inspired by the [C# Generics Collection](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic) library.
@@ -20,7 +20,7 @@ It implements the following classes:
 ## Installation
 
 ```sh
-composer require ruslan/generics
+composer require ruslanora/generics
 ```
 
 ## Usage

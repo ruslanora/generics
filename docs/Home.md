@@ -17,7 +17,7 @@ Strongly typed collections for PHP, inspired by the [C# Generics Collection](htt
 ## Installation
 
 ```sh
-composer require ruslan/generics
+composer require ruslanora/generics
 ```
 
 ## Contributing
