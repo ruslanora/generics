@@ -1,0 +1,19 @@
+name: Feature request
+description: Suggest a collection
+title: '[Feature]: '
+labels: ['enhancement']
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem will this collection solve?
+      description: What's missing, or what's annoying right now?
+    validations:
+      required: false
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: What collection would you like to see?
+    validations:
+      required: true
