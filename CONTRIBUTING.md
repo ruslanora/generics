@@ -39,7 +39,7 @@ composer format
 
 ## Guidelines
 
-- Target PHP 8.1+ syntax and features.
+- Target PHP 8.3+ syntax and features.
 - Follow PSR-12; formatting is enforced by php-cs-fixer, so run `composer format` before committing.
 - Add or update tests for any behavioral change. Pull requests without tests will be closed.
 - Keep pull requests focused on a single change and include a clear, descriptive title and description.

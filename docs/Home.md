@@ -1,6 +1,6 @@
 # Generics Collections in PHP
 
-Strongly typed collections for PHP, inspired by the [C# Generics Collection](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic) library.
+Type-safe collections for PHP, powered by PHPStan generics, inspired by the [C# Generics Collection](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic) library.
 
 ## Classes
 
@@ -17,7 +17,7 @@ Strongly typed collections for PHP, inspired by the [C# Generics Collection](htt
 ## Installation
 
 ```sh
-composer require ruslan/generics
+composer require ruslanora/generics
 ```
 
 ## Contributing
